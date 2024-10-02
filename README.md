@@ -1,6 +1,6 @@
 # worldtime
 
-A new Flutter application for world time
+A new Flutter application for checking the time in different parts of the world. This is an open source project and contributions are accepted.
 
 ## Getting Started
 
