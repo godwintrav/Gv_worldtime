@@ -10,12 +10,6 @@ class WorldTime {
   bool isDayTime;
   WorldTime({this.location, this.flag, this.url});
 
-  // void getData() async {
-  //   // //simulate network reequest for a username
-  //   // String username = await Future.delayed(Duration(seconds: 3), () {
-  //   //   return 'yoshi';
-  //   // });
-
   //   // //simulate network reequest for a username to get bio
   //   // String bio = await Future.delayed(Duration(seconds: 3), () {
   //   //   return 'igzooo';

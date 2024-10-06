@@ -9,6 +9,7 @@ void main() {
     routes: {
       '/': (context) => Loading(),
       '/home': (context) => Home(),
+      '/home-screen': (context) => Home(),
       '/location': (context) => ChooseLocation(),
     },
   ));
